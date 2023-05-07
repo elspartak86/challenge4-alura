@@ -1,0 +1,38 @@
+.page-footer {
+    background-color: #007bff;
+    color: white;
+  }
+
+  a svg {
+    font-size: 1.5rem;
+    vertical-align: middle;
+    margin-right: 5px;
+    color: aliceblue;
+    text-decoration-color: rgb(246, 247, 248);
+  }
+
+  p {
+
+    max-width: 600px; 
+    margin: 0 auto; 
+    text-align: justify; 
+  }
+
+  a.red-social {
+    color:aliceblue;
+    text-decoration: none;
+  }
+
+  .red-social:hover {
+    cursor: pointer;
+  }
+  
+  .red-social:hover > svg {
+    color: #f2440a; 
+  }
+  
+  .red-social:hover > .red-social-texto {
+    color: #f2440a; 
+  }
+  
+ 
